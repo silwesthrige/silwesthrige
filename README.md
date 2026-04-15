@@ -98,6 +98,6 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center"> <a href="mailto:lihindu.indudunu.perera@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a> <a href="https://www.linkedin.com/in/lihindu-perera-231024349/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="https://github.com/LihinduPerera"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://www.facebook.com/sa.lihindu"><img src="https://skillicons.dev/icons?i=facebook"/></a> </p>
+<p align="center"> <a href="roshel.shan23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a> <a href="www.linkedin.com/in/vishwa-roshel-288015320/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="https://github.com/silwesthrige"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://www.facebook.com/vishwa-roshel"><img src="https://skillicons.dev/icons?i=facebook"/></a> </p>
 
 <p align="center"><strong>✨ In the space between imagination and execution — innovation lives ✨</strong></p>
