@@ -58,18 +58,18 @@
 </div>
 ---
 
-## 📈 My GitHub Pulse
+## 📈 Developer Activity Hub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LihinduPerera&label=PROFILE+VIEWS&style=for-the-badge&color=7AA2F7&base=1000" alt="LihinduPerera Views" />
+  <img src="https://komarev.com/ghpvc/?username=VishwaRoshelShan&label=SYSTEM+VISITS&style=for-the-badge&color=bb9af7&base=100" alt="Vishwa Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LihinduPerera&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaRoshelShan&theme=tokyonight&area=true&hide_border=true&custom_title=Vishwa's%20Coding%20Velocity" width="100%" />
 </p>
 
 <p align="center">
-  <i>"Measuring progress by impact, not just lines of code."</i>
+  <i>"Transforming logic into user experiences."</i>
 </p>
 
 ---
