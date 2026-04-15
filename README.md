@@ -47,17 +47,15 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishwaRoshelShan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Vishwa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaRoshelShan&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silwesthrige&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwesthrige&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaRoshelShan&theme=tokyonight&hide_border=true" width="91%" alt="Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silwesthrige&theme=tokyonight&hide_border=true" width="91%" alt="Commit Streak" />
 </div>
-
----
 
 ### 🤝 Connect with Me
 <p align="left">
