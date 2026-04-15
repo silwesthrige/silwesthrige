@@ -57,13 +57,24 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=silwesthrige&theme=tokyonight&hide_border=true" width="91%" alt="Commit Streak" />
 </div>
 
+---
+
 ### 🤝 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishwa Roshel Shan" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="Vishwa Roshel Shan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishwa-roshel" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishwa Roshel Shan LinkedIn" />
+</a>
+<a href="mailto:vishwaroshel@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishwa" />
+</a>
+<a href="https://github.com/silwesthrige" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vishwa GitHub" />
+</a>
 </p>
 
 <p align="center">
+  <br />
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br/>
   <b>Happy Coding! 🚀</b>
 </p>
