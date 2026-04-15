@@ -58,17 +58,26 @@
 </div>
 ---
 
-## 🛰️ System Analytics
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=NETWORK+ACCESS&style=for-the-badge&color=73daca&base=100" alt="Vishwa System Access" />
-</p>
+## 🛰️ System Analytics & Core Telemetry
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=73daca" width="100%" alt="Vishwa's Coding Pulse" />
+  <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=NETWORK+TRAFFIC&style=for-the-badge&color=7aa2f7&base=100" /> 
+  <img src="https://img.shields.io/badge/System_Status-Operational-2ac3de?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=7aa2f7&line=bb9af7&point=2ac3de" width="100%" alt="Coding Velocity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silwesthrige&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silwesthrige&theme=tokyonight" width="49%" />
+</div>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silwesthrige&theme=tokyonight" width="91%" />
+  <img src="https://raw.githubusercontent.com/silwesthrige/silwesthrige/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
