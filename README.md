@@ -58,18 +58,17 @@
 </div>
 ---
 
-## 📈 Developer Activity Hub
-
+## 🛰️ System Analytics
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishwaRoshelShan&label=SYSTEM+VISITS&style=for-the-badge&color=bb9af7&base=100" alt="Vishwa Views" />
+  <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=NETWORK+ACCESS&style=for-the-badge&color=73daca&base=100" alt="Vishwa System Access" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaRoshelShan&theme=tokyonight&area=true&hide_border=true&custom_title=Vishwa's%20Coding%20Velocity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=73daca" width="100%" alt="Vishwa's Coding Pulse" />
 </p>
 
 <p align="center">
-  <i>"Transforming logic into user experiences."</i>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silwesthrige&theme=tokyonight" width="91%" />
 </p>
 
 ---
