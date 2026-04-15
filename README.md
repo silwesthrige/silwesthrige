@@ -44,51 +44,56 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silwesthrige&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwesthrige&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
-</div>
 
-<br/>
+## 🛰️ System Analytics & Core Telemetry
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silwesthrige&theme=tokyonight&hide_border=true" width="91%" alt="Commit Streak" />
-</div>
----
-
----
-
-<h2 align="center">🛰️ System Analytics & Core Telemetry</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=NETWORK+ACCESS&style=for-the-badge&color=7aa2f7&base=100" /> 
-  <img src="https://img.shields.io/badge/Latency-12ms-bb9af7?style=for-the-badge&logo=opsgenie&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-2ac3de?style=for-the-badge&logo=uptime-kuma&logoColor=white" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=Profile+Views&style=flat-square&color=7aa2f7" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Latency-12ms-bb9af7?style=flat-square&logo=speedtest&logoColor=white" alt="Latency" />
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-2ac3de?style=flat-square&logo=statuspage&logoColor=white" alt="Uptime" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=7aa2f7&line=bb9af7&point=7aa2f7" width="100%" />
 </div>
 
-<br/>
+---
+
+### 📈 Activity Graph
 
 <div align="center">
-
-| 📊 **Profile Overview** | 💻 **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=silwesthrige&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=9abdf5" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwesthrige&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9abdf5&icon_color=bb9af7" width="400px" /> |
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution+Activity" width="95%" alt="Activity Graph" />
 </div>
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silwesthrige&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=2ac3de&currStreakLabel=7aa2f7" width="100%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=silwesthrige&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwesthrige&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=2&section=footer&fontSize=0" width="100%" />
-</p>
+---
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silwesthrige&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
 
 ---
 
