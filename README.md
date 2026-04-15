@@ -60,24 +60,33 @@
 
 ## 🛰️ System Analytics & Core Telemetry
 
+## 🛰️ System Analytics & Neural Pulse
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=NETWORK+TRAFFIC&style=for-the-badge&color=7aa2f7&base=100" /> 
-  <img src="https://img.shields.io/badge/System_Status-Operational-2ac3de?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=NETWORK+ACCESS&style=for-the-badge&color=7aa2f7&base=100" /> 
+  <img src="https://img.shields.io/badge/Latency-12ms-bb9af7?style=for-the-badge&logo=opsgenie&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-2ac3de?style=for-the-badge&logo=uptime-kuma&logoColor=white" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=7aa2f7&line=bb9af7&point=2ac3de" width="100%" alt="Coding Velocity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=7aa2f7&line=bb9af7&point=7aa2f7" width="100%" alt="Vishwa's Pulse" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silwesthrige&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silwesthrige&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silwesthrige&theme=tokyonight" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwesthrige&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9abdf5&icon_color=bb9af7" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/silwesthrige/silwesthrige/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=3&section=footer&fontSize=0" width="100%" />
 </p>
 
 ---
