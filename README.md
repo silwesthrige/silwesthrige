@@ -64,12 +64,6 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Lihindu Perera" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lihindu Perera" height="40" width="50" /></a>
-<a href="https://github.com/LihinduPerera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lihindu Perera" height="40" width="50" /></a>
-</p>
+<p align="center"> <a href="mailto:lihindu.indudunu.perera@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a> <a href="https://www.linkedin.com/in/lihindu-perera-231024349/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="https://github.com/LihinduPerera"><img src="https://skillicons.dev/icons?i=github"/></a> <a href="https://www.facebook.com/sa.lihindu"><img src="https://skillicons.dev/icons?i=facebook"/></a> </p>
 
-<p align="center">
-  ✨ <i>In the space between imagination and execution — innovation lives</i> ✨
-</p>
+<p align="center"><strong>✨ In the space between imagination and execution — innovation lives ✨</strong></p>
