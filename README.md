@@ -58,9 +58,9 @@
 </div>
 ---
 
-## 🛰️ System Analytics & Core Telemetry
+---
 
-## 🛰️ System Analytics & Neural Pulse
+<h2 align="center">🛰️ System Analytics & Core Telemetry</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=silwesthrige&label=NETWORK+ACCESS&style=for-the-badge&color=7aa2f7&base=100" /> 
@@ -69,24 +69,25 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=7aa2f7&line=bb9af7&point=7aa2f7" width="100%" alt="Vishwa's Pulse" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silwesthrige&theme=tokyonight&area=true&hide_border=true&color=7aa2f7&line=bb9af7&point=7aa2f7" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silwesthrige&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silwesthrige&theme=tokyonight" width="49%" />
+
+| 📊 **Profile Overview** | 💻 **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=silwesthrige&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=9abdf5" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwesthrige&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9abdf5&icon_color=bb9af7" width="400px" /> |
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silwesthrige&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9abdf5&icon_color=bb9af7" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silwesthrige&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=2ac3de&currStreakLabel=7aa2f7" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=3&section=footer&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=2&section=footer&fontSize=0" width="100%" />
 </p>
 
 ---
