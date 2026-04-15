@@ -56,11 +56,22 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=silwesthrige&theme=tokyonight&hide_border=true" width="91%" alt="Commit Streak" />
 </div>
-
 ---
 
-## 👁️ Profile Views
-<div align="center"> <img src="https://count.getloli.com/get/@LihinduPerera?theme=moebooru" alt="Profile Counter" /> </div>
+## 📈 My GitHub Pulse
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LihinduPerera&label=PROFILE+VIEWS&style=for-the-badge&color=7AA2F7&base=1000" alt="LihinduPerera Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LihinduPerera&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <i>"Measuring progress by impact, not just lines of code."</i>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
