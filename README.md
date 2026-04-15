@@ -59,22 +59,23 @@
 
 ---
 
-### 🤝 Connect with Me
+## 👁️ Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LihinduPerera&label=Profile%20views&color=0e75b6&style=flat" alt="LihinduPerera" />
+</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/LihinduPerera/count.svg" alt="Visitor Count" />
+</p>
 
-<p align="left">
-<a href="https://linkedin.com/in/vishwa-roshel" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vishwa Roshel Shan LinkedIn" />
-</a>
-<a href="mailto:vishwaroshel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishwa" />
-</a>
-<a href="https://github.com/silwesthrige" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vishwa GitHub" />
-</a>
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Lihindu Perera" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lihindu Perera" height="40" width="50" /></a>
+<a href="https://github.com/LihinduPerera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Lihindu Perera" height="40" width="50" /></a>
 </p>
 
 <p align="center">
-  <br />
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br/>
-  <b>Happy Coding! 🚀</b>
+  ✨ <i>In the space between imagination and execution — innovation lives</i> ✨
 </p>
